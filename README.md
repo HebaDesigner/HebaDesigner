@@ -1,25 +1,39 @@
 # Hi, I'm Heba 👋
 
-## Data Analyst | Python | Pandas | Power BI
+## Data Analysis | Embedded Systems | Design
 
-I am passionate about transforming raw data into actionable insights using Python, Pandas, and visualization tools.
+I am passionate about building technical and creative projects in multiple fields including:
 
-## Skills
+- Data Analysis using Python & Pandas
+- Embedded Systems & IoT
+- Graphic & UI Design
+
+## Technical Skills
 - Python
 - Pandas
-- Data Cleaning
-- Data Visualization
-- Machine Learning Basics
+- Matplotlib
+- Arduino
+- ESP32
+- C/C++
 - Power BI
+- UI Design
 
-## Featured Project
-🔹 Sales Analysis Ultimate Portfolio
-Professional sales analysis project using Python and Machine Learning.
+## Featured Projects
+### 📊 Data Analysis
+- Sales Analysis Ultimate Portfolio
+
+### ⚡ Embedded Systems
+- Smart Home System
+- IoT Projects
+
+### 🎨 Design
+- UI & Graphic Design Portfolio
 
 ## Currently Learning
 - Advanced Data Analysis
-- Power BI Dashboards
 - SQL
+- Machine Learning
+- Power BI Dashboards
 
 ## Contact
 GitHub: https://github.com/HebaDesigner
