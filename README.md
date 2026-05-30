@@ -1,39 +1,17 @@
 # Hi, I'm Heba 👋
 
-## Data Analysis | Embedded Systems | Design
-
-I am passionate about building technical and creative projects in multiple fields including:
-
-- Data Analysis using Python & Pandas
-- Embedded Systems & IoT
-- Graphic & UI Design
-
-## Technical Skills
-- Python
-- Pandas
-- Matplotlib
-- Arduino
-- ESP32
-- C/C++
-- Power BI
-- UI Design
-
-## Featured Projects
-### 📊 Data Analysis
-- Sales Analysis Ultimate Portfolio
-
-### ⚡ Embedded Systems
-- Smart Home System
-- IoT Projects
-
-### 🎨 Design
-- UI & Graphic Design Portfolio
-
-## Currently Learning
-- Advanced Data Analysis
-- SQL
-- Machine Learning
-- Power BI Dashboards
+👩‍💻 About Me
+Aspiring Data Analyst
+Python & Data Visualization
+Learning SQL, Power BI & Machine Learning
+🌐 Web Development
+Al Azhar Herbal Store Web App
+🎨 Design
+UI & Graphic Design Projects
+🔧 Embedded Systems
+HAL Drivers
+MCAL Drivers
+Graduation Project
 
 ## Contact
 GitHub: https://github.com/HebaDesigner
